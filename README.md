@@ -1,2 +1,2 @@
-# HacktoberFest-2020-
-free goodies
+# HacktoberFest-2020
+
